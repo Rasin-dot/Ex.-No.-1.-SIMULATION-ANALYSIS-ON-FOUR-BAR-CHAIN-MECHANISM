@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 09-10-2025
+## DATE: 16 / 11 / 2025
 
 ## AIM:
 
@@ -53,8 +53,8 @@
 
 
 ## Output:
-![Screenshot 2025-04-15 113233](https://github.com/user-attachments/assets/9f522beb-de72-4b86-8295-6442189eeb6f)
-![Screenshot 2025-04-15 113244](https://github.com/user-attachments/assets/bc670a4a-c671-468a-bd20-e54a55448a37)
+
+<img width="1025" height="627" alt="image" src="https://github.com/user-attachments/assets/bafc2354-ceeb-4c57-9113-acc3940d108e" />
 
 
 ### Name: Rasindhan R
